@@ -18,10 +18,10 @@
   </properties>
 
   <repositories>
-    <!-- Repo for access to CraftBukkit -->
+    <!-- CodeMC's Public NMS Repository -->
     <repository>
-      <id>spigot-repo</id>
-      <url>https://hub.spigotmc.org/nexus/content/groups/public/</url>
+        <id>codemc-nms-repository</id>
+        <url>https://repo.codemc.io/repository/nms/</url>
     </repository>
 
     <!-- Repo for access to BKCommonLib, MyWorlds, SignLink -->
